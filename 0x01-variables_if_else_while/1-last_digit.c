@@ -4,9 +4,10 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-/**main - entry point
-*Return: return 0 (success)
-*/
+/**
+ * main - entry point
+ * Return: return 0 (success)
+ */
 int main(void)
 {
 int n;
@@ -19,7 +20,7 @@ int m;
 m = n % 10;
 if (m > 5)
 {
-printf("last digit of %d is %d and is greater than 5\n," n, m);
+printf("last digit of %d is %d and is greater than 5\n,"n, m);
 }
 if (m == 0)
 {
