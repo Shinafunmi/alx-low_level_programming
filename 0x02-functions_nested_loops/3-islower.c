@@ -17,5 +17,5 @@ else
 {
 return (0);
 }
-purchar('\n');
+_putchar('\n');
 }
