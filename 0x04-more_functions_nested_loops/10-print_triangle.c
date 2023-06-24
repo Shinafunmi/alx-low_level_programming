@@ -1,11 +1,11 @@
 #include "main.h"
+
 /**
  * print_triangle - printing out value
  * @size: a named integer
  */
 void print_triangle(int size)
 {
-
 if (size <= 0)
 {
 _putchar('\n');
@@ -31,3 +31,4 @@ _putchar('\n');
 }
 }
 }
+
