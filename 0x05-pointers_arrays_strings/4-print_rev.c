@@ -15,7 +15,7 @@ while (*s != '\0')
 i++;
 s++;
 }
-s--
+s--;
 for (o = i; o > 0; o--)
 {
 putchar(*s);
