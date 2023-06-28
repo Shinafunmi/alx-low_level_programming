@@ -12,10 +12,10 @@ for (i = 0; i <= 9; i++)
 {
 putchar('0' + i);
 }
-for (a = a; a <= f; i++)
+for (a = 'a'; a <= 'f'; i++)
 {
 putchar(a);
 }
-putchar('\n')
+putchar('\n');
 return (0);
 }
