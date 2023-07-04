@@ -2,8 +2,8 @@
 
 /**
  * _strspn - function that get length of a prefix
- * @s: bytes
- * @accept: 
+ * @s: input
+ * @accept: input
  * Return: always 0 success
  */
 unsigned int _strspn(char *s, char *accept)
