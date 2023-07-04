@@ -15,7 +15,7 @@ for (i = 0; s[i] != '\0'; i++)
 check = 0;
 for (n = 0; accept[n] != '\0'; i++)
 {
-if (accept[n] = s[i])
+if (accept[n] == s[i])
 {
 value++;
 check = 1;
