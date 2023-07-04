@@ -21,7 +21,7 @@ one++;
 two++;
 }
 if (*two == 0)
-return(haystack);
+return (haystack);
 }
 return (NULL);
 }
